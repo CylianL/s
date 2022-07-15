@@ -23,7 +23,7 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
+[Link](url) and ![Image](https://anime-flix.net)
 ```
 
 For more details see [Basic writing and formatting syntax](https://cylianl.github.io/s/hi).
@@ -31,6 +31,8 @@ For more details see [Basic writing and formatting syntax](https://cylianl.githu
 ### Jekyll Themes
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/CylianL/s/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+
+[https://les-raccourcis-clavier.fr/wp-content/uploads/2020/06/u-accent-grave.png](src)
 
 ### Support or Contact
 
